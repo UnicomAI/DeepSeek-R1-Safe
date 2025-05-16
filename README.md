@@ -21,11 +21,17 @@
 ## 能力评估结果
 ### Unichat-DeepSeek-R1-Safe模型：
 
-![在客观题方面，整体准确率（ACC-O）和五大安全子领域的准确率（ACC-i）多用于评估多项选择题（MCQ）的风险内容识别能力。图示呈现了六个 DeepSeek-R1 蒸馏模型在三个关键阶段——蒸馏前（pre-distillation）、蒸馏后（post-distillation）以及安全增强（safety-enhancement）的准确率表现，并对 DeepSeek-R1（671B）在安全增强前后的准确率进行了对比分析。实验结果从实证层面验证了安全增强在整个 DeepSeek-R1 系列中的有效性。](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Objective_question.png)
+![客观题](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Objective_question.png)
 
-![在主观题方面，上图系统地展示了所有七款 DeepSeek-R1 模型在“拒绝回答”子集上，于三个开发阶段——蒸馏前（pre-distillation）、蒸馏后（post-distillation）及安全增强（safety-enhancement）所获得的 RR-1、RR-2 和 HR 指标结果。需要指出的是，DeepSeek-R1（671B）在蒸馏前阶段并无对应的基础模型。](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Subjective_questions.png)
+在客观题方面，整体准确率（ACC-O）和五大安全子领域的准确率（ACC-i）多用于评估多项选择题（MCQ）的风险内容识别能力。图示呈现了六个 DeepSeek-R1 蒸馏模型在三个关键阶段——蒸馏前（pre-distillation）、蒸馏后（post-distillation）以及安全增强（safety-enhancement）的准确率表现，并对 DeepSeek-R1（671B）在安全增强前后的准确率进行了对比分析。实验结果从实证层面验证了安全增强在整个 DeepSeek-R1 系列中的有效性。
 
-![上图展示了DeepSeek-R1 模型与安全增强模型在推理基准测试上的性能比较。](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Subjective_questions.png)
+![主观题](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Subjective_questions.png)
+
+在主观题方面，上图系统地展示了所有七款 DeepSeek-R1 模型在“拒绝回答”子集上，于三个开发阶段——蒸馏前（pre-distillation）、蒸馏后（post-distillation）及安全增强（safety-enhancement）所获得的 RR-1、RR-2 和 HR 指标结果。需要指出的是，DeepSeek-R1（671B）在蒸馏前阶段并无对应的基础模型。
+
+![推理性能](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Subjective_questions.png)
+
+上图展示了DeepSeek-R1 模型与安全增强模型在推理基准测试上的性能比较。
 
 
 
