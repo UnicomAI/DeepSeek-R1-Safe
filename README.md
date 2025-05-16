@@ -45,6 +45,7 @@
 ### DeepSeek-R1-Safe安全增强模型
 | 模型名称                     | 模型加载名称             | 下载地址                                                     |
 |--------------------------| ------------------------- | --------------------- |
+| Unichat-DeepSeek-R1-Safe | UnicomAI/Unichat-DeepSeek-R1-Safe-bf16 |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-DeepSeek-R1-Safe-bf16)|
 | Unichat-DeepSeek-R1-Distill-Qwen-1.5B-Safe | UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-1.5B-Safe-bf16 |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-1.5B-Safe-bf16)|
 | Unichat-DeepSeek-R1-Distill-Qwen-7B-Safe | UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-7B-Safe-bf16 |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-7B-Safe-bf16)|
 | Unichat-DeepSeek-R1-Distill-Qwen-14B-Safe | UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-14B-Safe-bf16  | [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-DeepSeek-R1-Distill-Qwen-14B-Safe-bf16) |
