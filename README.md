@@ -29,7 +29,7 @@
 
 在主观题方面，上图系统地展示了所有七款 DeepSeek-R1 模型在“拒绝回答”子集上，于三个开发阶段——蒸馏前（pre-distillation）、蒸馏后（post-distillation）及安全增强（safety-enhancement）所获得的 RR-1、RR-2 和 HR 指标结果。需要指出的是，DeepSeek-R1（671B）在蒸馏前阶段并无对应的基础模型。
 
-![推理性能](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/Subjective_questions.png)
+![推理性能](https://github.com/UnicomAI/DeepSeek-R1-Safe/blob/main/images/inference.png)
 
 上图展示了DeepSeek-R1 模型与安全增强模型在推理基准测试上的性能比较。
 
